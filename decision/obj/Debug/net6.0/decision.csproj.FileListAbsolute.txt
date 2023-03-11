@@ -1,0 +1,15 @@
+/Users/alexey/Desktop/specialization/decision/bin/Debug/net6.0/decision
+/Users/alexey/Desktop/specialization/decision/bin/Debug/net6.0/decision.deps.json
+/Users/alexey/Desktop/specialization/decision/bin/Debug/net6.0/decision.runtimeconfig.json
+/Users/alexey/Desktop/specialization/decision/bin/Debug/net6.0/decision.dll
+/Users/alexey/Desktop/specialization/decision/bin/Debug/net6.0/decision.pdb
+/Users/alexey/Desktop/specialization/decision/obj/Debug/net6.0/decision.csproj.AssemblyReference.cache
+/Users/alexey/Desktop/specialization/decision/obj/Debug/net6.0/decision.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexey/Desktop/specialization/decision/obj/Debug/net6.0/decision.AssemblyInfoInputs.cache
+/Users/alexey/Desktop/specialization/decision/obj/Debug/net6.0/decision.AssemblyInfo.cs
+/Users/alexey/Desktop/specialization/decision/obj/Debug/net6.0/decision.csproj.CoreCompileInputs.cache
+/Users/alexey/Desktop/specialization/decision/obj/Debug/net6.0/decision.dll
+/Users/alexey/Desktop/specialization/decision/obj/Debug/net6.0/refint/decision.dll
+/Users/alexey/Desktop/specialization/decision/obj/Debug/net6.0/decision.pdb
+/Users/alexey/Desktop/specialization/decision/obj/Debug/net6.0/decision.genruntimeconfig.cache
+/Users/alexey/Desktop/specialization/decision/obj/Debug/net6.0/ref/decision.dll
